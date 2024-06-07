@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #b1b1b1d8;
+    background-color: #999999;
     padding: 20px 0;
     text-align: center;
 }
@@ -37,12 +37,12 @@ nav ul li a {
 .hero h1 {
     font-size: 3em;
     margin: 0;
-    color: #ffffffd8;
+    color: #ff0606d8;
 }
 
 .hero p {
     font-size: 1.4em;
-    color: #ccc;
+    color: #ff0606d8;
 }
 
 section {
